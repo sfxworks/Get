@@ -1,6 +1,6 @@
 # Get
 ## Display and Monitor infastructure from your desktop
-![preview](https://github.com/sfxworks/Get/blob/master/New%20folder/Capture.PNG?raw=true)
+![preview](https://github.com/sfxworks/Get/blob/master/content/Capture.PNG?raw=true)
 
 
 
