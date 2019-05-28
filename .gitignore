@@ -1,0 +1,7 @@
+bin
+bat
+RECOVER_
+*.tmp
+*.exe
+*.swf
+*.as3proj

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/30.0">
+  <id>net.sfxworks.get</id>
+  <versionNumber>0.1</versionNumber>
+  <filename>Get</filename>
+  <description>Get various resources and display them. Currently Openstack instances.</description>
+  <name>Get</name>
+  <copyright>quantomworks 2019</copyright>
+  <initialWindow>
+    <content>Main.swf</content>
+    <systemChrome>none</systemChrome>
+    <transparent>true</transparent>
+    <visible>true</visible>
+    <fullScreen>false</fullScreen>
+    <aspectRatio>portrait</aspectRatio>
+    <renderMode>direct</renderMode>
+    <maximizable>true</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>true</resizable>
+  </initialWindow>
+  <icon/>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+</application>
